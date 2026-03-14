@@ -1,26 +1,41 @@
 # Electron Calculator App
 
-This is my first desktop application built using Electron.js.
+A simple desktop calculator application built using Electron.js.
+
+![Calculator Screenshot](screenshot.png)
 
 ## Features
 
-- Simple calculator UI  
-- Works offline  
-- Built with HTML, CSS, JavaScript  
-- Packaged as a Linux desktop app  
+- Simple and clean calculator interface
+- Works completely offline
+- Built using HTML, CSS, and JavaScript
+- Cross-platform desktop application with Electron
 
 ## Technologies Used
 
-- Electron.js  
-- JavaScript  
-- HTML  
-- CSS  
+- Electron.js
+- JavaScript
+- HTML
+- CSS
 
-## Screenshot
+## Installation
 
+Clone the repository
 
-## How to Run
+git clone https://github.com/arathyrajeesh/my-electron-app.git
 
-```bash
+Go to the project folder
+
+cd my-electron-app
+
+Install dependencies
+
 npm install
+
+Run the application
+
 npm start
+
+## Author
+
+Arathy Rajeesh
