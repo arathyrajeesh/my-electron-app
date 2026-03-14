@@ -2,7 +2,7 @@
 
 A simple desktop calculator application built using Electron.js.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](image.png)
 
 ## Features
 
